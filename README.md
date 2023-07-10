@@ -1,47 +1,44 @@
-<h1 align = center> Livecoding4Noobs </h1>
+<h1 align = center> Moderação4Noobs </h1>
 
 # Sobre o Repositório
 
-Guia de como começar a fazer suas lives voltadas à código serem mais produtivas e interessantes.
+Guia de moderação para todas as plataformas.
 
 # Road Map
 
-1. Básicos 
-    + [Introdução](/contents/basics/1-1-intro.md)
-    + [Porquê fazer LiveCoding](/contents/basics/1-2-why-livecoding.md)
-    + [Plataformas de Streaming](/contents/basics/1-3-streaming-platforms.md)
-2. Configurando Ambiente
-   1. [Softwares para Streaming](/contents/environment/1-1-softwares.md)
-   2. [Integrações para Streaming (IMPORTANTE!)](/contents/environment/1-2-integrations.md)
-   3. [Overlays para Streaming](/)
-   4. [Configurando o Ambiente](/)
-3. Entrando em Live
-   1. [Introduçao](/contents/livecoding/3-1-intro.md)
-   2. [Cativando os Primeiros Viewers](/)
-   3. [Moderação (IMPORTANTE!)](/)
-   4. [Acompanhando Métricas de Crescimento](/)
-4. Guia de Moderação
-   1. [Funções Básicas](/contents/2.Funcoes.md)
-      + Delete/Timeout/Ban
-      + Funções Manuais
-   2. [Interface do Moderador](/contents/3.Interface.md)
-   3. [Comandos](/contents/4.Comandos.md)  (Em desenvolvimento)
-   4. [Palavras Bloqueadas](/contents/5.Palavras.md)  (Em desenvolvimento)
-      + Palavras Proibidas
-      + Caules
-   5. [Bots para Twitch](/contents/6.Bots.md) (Em desenvolvimento)
-      + Nightbot
-      + Stream Elements
-   6. [AutoMod](/contents/7.AutoMod.md)  (Ainda vai ser escrito)
-   7. [Situações](/contents/8.Situacoes.md)  (Ainda vai ser escrito)
-      + Ataque de bots (seguidores, flood)
-      + Raids Agressivas
-      + Situações que ocorrem
-   8. [Diretrizes](/contents/9.Diretrizes.md)  (Ainda vai ser escrito)
-      + Twitch
-      + He4rt Live
-   9. [Bônus](/contents/10.Bonus.md)
-   10. Bots para Discord
+- **Moderação**
+   - O que é moderar?
+   - O quanto moderação é importante?
+   - Como a moderação pode sempre está em constante evolução?
+   - Moderação é só um ciclo
+
+- **Twitch**
+   - O que é a Twitch?
+   - Trabalho do moderador na Twitch
+   - Conceitos
+   - Principais ações
+   - Dashboard
+   - Bots
+      - Stream Elements
+      - Fossa Bot
+      - Night Bot
+   - Chatterino
+
+- **Discord**
+   - O que é o Discord?
+   - Trabalho do moderador no Discord
+   - Conceitos
+   - Principais ações
+   - Bots
+      - Bots de moderação
+      - Bots de música
+   - Ferramentas do discord
+   - Idealizaçao de um servidor
+
+- **Kick**
+   - O que é a Kick?
+   - Trabalho do moderador na Kick
+   - Principais ações
 
 # Como Contribuir
 
@@ -56,10 +53,8 @@ contribuições são **extremamente apreciadas**!
 
 # Autor
 
-- **Luis Eduardo Teixeira (nadachi)** - _Developer & Global Moderator for He4rt Live_
+- **Luis Eduardo (nadachi)** - _ Back-end developer & Community Manager at He4rt.
   - [Twitter](https://twitter.com/Luis_Nadachi) [LinkedIn](https://www.linkedin.com/in/luis-eduardo-ribeiro-teixeira-384b9819a/)
-- **Daniel Reis (danielhe4rt)** - _Back-end Developer & Twitch Parner_
-   - [Twitter](https://twitter.com/danielhe4rt) [LinkedIn](https://www.linkedin.com/in/danielheart)
 
 # Contribuidores
 
